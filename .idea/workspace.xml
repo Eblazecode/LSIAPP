@@ -33,6 +33,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -63,6 +64,8 @@
       <workItem from="1615549864359" duration="1216000" />
       <workItem from="1616388749036" duration="707000" />
       <workItem from="1616389477436" duration="79000" />
+      <workItem from="1616389557942" duration="1312000" />
+      <workItem from="1616391510375" duration="893000" />
     </task>
     <task id="LOCAL-00001" summary="Removed unnecessary files for heroku and changed directory">
       <created>1616387660216</created>
@@ -71,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616387660216</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Removed unnecessary files for heroku and changed directory">
+      <created>1616389585103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616389585103</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
