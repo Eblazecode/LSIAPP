@@ -62,10 +62,7 @@
                                 <li><a href="highsch.php">High school</a></li>
                                 <li><a href="elementarysch.php">Elementary school</a></li>
                                 <li><a href="page-faqs.html">Faqs</a></li>
-                                <li><a href="page-contact.html">Contact</a></li>
-                                <li><a href="page-coming-soon.html">Coming Soon</a></li>
-                                <li><a href="page-404.html">Page 404</a></li>
-                                <li><a href="page-under-construction.html">Under Construction</a></li>
+
                             </ul>
                         </li>
                         <li><a href="#">Academics</a>
