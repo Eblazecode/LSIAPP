@@ -50,7 +50,8 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-responsive_offset="on"
-                             style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">Take the <span class="text-theme-colored2">world's</span> best <span class="text-theme-colored2">Education</span> Site.
+                             style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">Welcome to  <span class="text-theme-colored2"></span> lucie
+                            international<span class="text-theme-colored2">school</span>
                         </div>
                         <!-- LAYER NR. 3 -->
                         <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -72,7 +73,9 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-responsive_offset="on"
-                             style="z-index: 7; white-space: nowrap;">We provides always our best services for our clients and  always<br> try to achieve our client's trust and satisfaction.
+                             style="z-index: 7; white-space: nowrap;">We believe every child is a potential<br>
+                            Qualitative
+                            education is our launchpad  to make it possible
                         </div>
                         <!-- LAYER NR. 4 -->
                         <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -94,8 +97,8 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-responsive_offset="on"
-                             style="z-index: 7; white-space: nowrap;"><a href="#" class="btn btn-default btn-theme-colored2 btn-xl">Read More</a>
-                            <a href="#" class="btn btn-dark btn-theme-colored btn-xl">Register Now</a>
+                             style="z-index: 7; white-space: nowrap;"><a href="about.php" class="btn btn-default btn-theme-colored2 btn-xl">About</a>
+
                         </div>
                     </li>
 
@@ -141,7 +144,7 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-responsive_offset="on"
-                             style="z-index: 7; white-space: nowrap;">Online Solution
+                             style="z-index: 7; white-space: nowrap;">
                         </div>
                         <!-- LAYER NR. 3 -->
                         <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -164,7 +167,9 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-responsive_offset="on"
-                             style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">Grow Up<span class="text-theme-colored2"> Future</span> Choose <span class="text-theme-colored2">Right</span> Solution.
+                             style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">We're growing <span class="text-theme-colored2"> Future leaders with
+                            </span> optimal best
+                            <span class="text-theme-colored2"></span> education
                         </div>
                         <!-- LAYER NR. 4 -->
                         <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -187,7 +192,7 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-responsive_offset="on"
-                             style="z-index: 7; white-space: nowrap;">We provides always our best services for our clients and  always<br> try to achieve our client's trust and satisfaction.
+                             style="z-index: 7; white-space: nowrap;">
                         </div>
                         <!-- LAYER NR. 5 -->
                         <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -209,14 +214,18 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-responsive_offset="on"
-                             style="z-index: 7; white-space: nowrap;"><a href="#" class="btn btn-dark btn-theme-colored2 btn-xl">Read More</a>
+                             style="z-index: 7; white-space: nowrap;"><a href="#" class="btn btn-dark btn-theme-colored2 btn-xl">Apply</a>
                         </div>
                     </li>
 
                     <!-- SLIDE 3 -->
-                    <li data-index="rs-3" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/bg/bg2.jpg" data-rotate="0"  data-fstransition="fade" data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="Make an Impact">
+                    <li data-index="rs-3" data-transition="slidingoverlayhorizontal" data-slotamount="default"
+                        data-easein="default" data-easeout="default" data-masterspeed="default"
+                        data-thumb="images/bg/bg2.jpg" data-rotate="0"  data-fstransition="fade"
+                        data-fsmasterspeed="1500" data-fsslotamount="7" data-saveperformance="off" data-title="Make an Impact">
                         <!-- MAIN IMAGE -->
-                        <img src="images/class.jpg" alt="" data-bgposition="top 30%" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
+                        <img src="images/class.jpg" alt="" data-bgposition="top 30%" data-bgfit="cover"
+                             data-bgrepeat="no-repeat" data-bgparallax="10" class="rev-slidebg" data-no-retina>
                         <!-- LAYERS -->
                         <!-- LAYER NR. 1 -->
                         <div class="tp-caption tp-shape tp-shapewrapper tp-resizeme rs-parallaxlevel-0"
@@ -255,8 +264,8 @@
                              data-splitout="none"
                              data-responsive_offset="on"
                              style="z-index: 6; min-width: 600px; max-width: 600px;
-                             white-space: normal;">We help you
-                            <span class="text-theme-colored2">Education</span> to grow and expand
+                             white-space: normal;">Our environment promotes
+                            <span class="text-theme-colored2">love and creativity</span> to grow and expand
                         </div>
                         <!-- LAYER NR. 3 -->
                         <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -278,7 +287,8 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-responsive_offset="on"
-                             style="z-index: 7; white-space: nowrap;">We provides always our best services for our clients and  always<br> try to achieve our client's trust and satisfaction.
+                             style="z-index: 7; white-space: nowrap;"><br>
+
                         </div>
                         <!-- LAYER NR. 3 -->
                         <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0"
@@ -300,7 +310,7 @@
                              data-splitin="none"
                              data-splitout="none"
                              data-responsive_offset="on"
-                             style="z-index: 7; white-space: nowrap;"><a href="#" class="btn btn-dark btn-theme-colored2 btn-xl">Read More</a>
+                             style="z-index: 7; white-space: nowrap;"><a href="contact.php" class="btn btn-dark btn-theme-colored2 btn-xl">Apply</a>
                         </div>
                         <!-- LAYER NR. 4 -->
                         <div class="tp-caption rs-parallaxlevel-0"

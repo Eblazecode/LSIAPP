@@ -4,22 +4,28 @@
 
 <head>
 
-    <!-- Meta Tags -->
     <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-    <meta name="description" content="StudyPro - Education & Courses HTML5 Template" />
-    <meta name="keywords" content="keyword1,keyword2,keyword3,keyword4,keyword5" />
-    <meta name="author" content="ThemeMascot" />
+    <meta name="description" content="Lucie schools Akure is  a structured, purposeful and caring co-educational  learning
+                              environment for all its students. It's an elementary and high school within which each girl or boy can feel confident to explore,
+                              develop and realise his or her full potential, helped and encouraged by teachers
+                              who are expert practitioners of their craft and fully committed to meeting the needs of
+                              the children in their care" />
+    <meta name="keywords" content="Akure, Akure schools,education, schools in Ondo state,
+southwest schools, Best schools in Akure,
+Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Akure" />
+    <meta name="author" content="spackbit Technologies" />
 
     <!-- Page Title -->
-    <title>Lucie schools about </title>
+    <title>Lucie school intl.- elearning</title>
 
     <!-- Favicon and Touch Icons -->
-    <link href="images/favicon.png" rel="shortcut icon" type="image/png">
-    <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
-    <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
-    <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
-    <link href="images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+    <link href="images/lucie.png" rel="shortcut icon" type="image/png">
+    <link href="images/lucie.png" rel="apple-touch-icon">
+    <link href="images/lucismwide.png" rel="apple-touch-icon" sizes="72x72">
+    <link href="images/lucismwide.png" rel="apple-touch-icon" sizes="114x114">
+    <link href="images/lucismwide.png" rel="apple-touch-icon" sizes="144x144">
+<link href="images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
 
     <!-- Stylesheet -->
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -98,7 +104,7 @@
                     <div class="row">
                         <div class="col-md-4">
                             <div class="thumb">
-                                <img src="images/sporty%20(3).jpg" width="500px" alt="">
+                                <img src="images/gallery/w4.jpeg" width="500px" alt="">
                             </div>
                         </div>
                         <div class="col-md-8 pl-5">
@@ -109,7 +115,7 @@
                                 <a class="media-left pull-left flip" href="#">
                                     <i class="fa fa-soccer-ball-o text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="name font-30 mt-0 mb-0">OUR EXTRA-CURRICULAR</h4>
+                                    <h4 class="name font-30 mt-0 mb-0">EXTRA-CURRICULAR ACTIVITIES</h4>
                                     <h4 class="media-heading heading">Straight on the bull's eye</h4>
                                     <quote>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam vero expedita
                                         fugiat illo quasi doloremque, in unde omnis sint assumenda! Quaerat in, reprehenderit
@@ -210,50 +216,7 @@
 
 
         <!-- Divider: testimonials -->
-        <section class="divider layer-overlay overlay-theme-colored-5" data-bg-img="images/schbuiding.jpg">
-            <div class="container pt-60 pb-60">
-                <div class="row">
-                    <div class="col-md-8 col-md-offset-2">
-                        <h2 class="line-bottom-double-line-centered text-white text-center mt-0 mb-0">Feedback From Our Students</h2>
-                        <div class="text-center mb-30"><i class="icon_quotations font-72 text-gray-lightgray"></i></div>
-                        <div class="owl-carousel-1col" data-dots="true">
-                            <div class="item">
-                                <div class="testimonial-wrapper text-center">
-                                    <div class="thumb"><img class="img-thumbnail img-circle" alt="" src="images/testimonials/1.jpg"></div>
-                                    <div class="content pt-10">
-                                        <p class="lead text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque est quasi, quas ipsamexpe ita placeat facilis odio illo ex accusantium eaque itaque officiis et sit. Vero quo, impedit neque.consectetur adipisicing elit</p>
-                                        <h4 class="author text-theme-colored2 mb-0">Catherine Grace</h4>
-                                        <h6 class="title text-white mt-0 mb-15">Designer</h6>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="testimonial-wrapper text-center">
-                                    <div class="thumb"><img class="img-thumbnail img-circle" alt="" src="images/testimonials/2.jpg"></div>
-                                    <div class="content pt-10">
-                                        <p class="lead text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque est quasi, quas ipsamexpe ita placeat facilis odio illo ex accusantium eaque itaque officiis et sit. Vero quo, impedit neque.consectetur adipisicing elit</p>
-                                        <h4 class="author text-theme-colored2 mb-0">Catherine Grace</h4>
-                                        <h6 class="title text-white mt-0 mb-15">Designer</h6>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="item">
-                                <div class="testimonial-wrapper text-center">
-                                    <div class="thumb"><img class="img-thumbnail img-circle" alt="" src="images/testimonials/3.jpg"></div>
-                                    <div class="content pt-10">
-                                        <p class="lead text-white">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque est quasi, quas ipsamexpe ita placeat facilis odio illo ex accusantium eaque itaque officiis et sit. Vero quo, impedit neque.consectetur adipisicing elit</p>
-                                        <h4 class="author text-theme-colored2 mb-0">Catherine Grace</h4>
-                                        <h6 class="title text-white mt-0 mb-15">Designer</h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-
+     <?php include ('includes/testimonial.php')?>
         <!-- Divider: Clients
         <section class="clients bg-theme-colored2">
           <div class="container pt-10 pb-0">

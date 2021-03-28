@@ -21,13 +21,13 @@
             </div>
             <div class="col-sm-6 col-md-3">
                 <div class="widget dark">
-                    <h4 class="widget-title line-bottom-theme-colored-2">Links</h4>
+                    <h4 class="widget-title line-bottom-theme-colored-2">Nav</h4>
                     <ul class="angle-double-right list-border">
-                        <li><a href="#">Home Page</a></li>
-                        <li><a href="#">About Us</a></li>
-                        <li><a href="#">Our Mission</a></li>
-                        <li><a href="#">E-learning</a></li>
-                        <li><a href="#">Curriculum</a></li>
+                        <li><a href="index.php">Home Page</a></li>
+                        <li><a href="about.php">About Us</a></li>
+                        <li><a href="mission.php">Our Mission</a></li>
+                        <li><a href="elearning.php">E-learning</a></li>
+                        <li><a href="excurricular.php">ex-curricular</a></li>
                     </ul>
                 </div>
             </div>
@@ -35,11 +35,10 @@
                 <div class="widget dark">
                     <h4 class="widget-title line-bottom-theme-colored-2"> Links</h4>
                     <ul class="angle-double-right list-border">
-                        <li><a href="#">Apply</a></li>
-                        <li><a href="#">Boarding</a></li>
-                        <li><a href="#">library</a></li>
-                        <li><a href="#">Gallery</a></li>
-                        <li><a href="#">Curriculum</a></li>
+                        <li><a href="admission.php">Admission</a></li>
+                        <li><a href="library.php">library</a></li>
+                        <li><a href="gallery.php">Gallery</a></li>
+                        <li><a href="contact.php">contact us</a></li>
                     </ul>
                 </div>
             </div>
@@ -71,17 +70,15 @@
             <div class="row">
                 <div class="col-md-6">
                     <p class="font-12 text-black-777 m-0 sm-text-center">
-                        <a target="_blank" href="#">spackbit tech</a></p>
+                        <a target="_blank" href="#">lucie school &copy 2021 </a></p>
                 </div>
                 <div class="col-md-6 text-right">
                     <div class="widget no-border m-0">
                         <ul class="list-inline sm-text-center mt-5 font-12">
-                            <li>
-                                <a href="#">FAQ</a>
-                            </li>
+
                             <li>|</li>
                             <li>
-                                <a href="#">Help Desk</a>
+                                <a href="#">spackbit tech</a>
                             </li>
                             <li>|</li>
                             <li>

@@ -5,21 +5,27 @@
 <head>
 
 <!-- Meta Tags -->
-<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-<meta name="description" content="StudyPro - Education & Courses HTML5 Template" />
-<meta name="keywords" content="keyword1,keyword2,keyword3,keyword4,keyword5" />
-<meta name="author" content="ThemeMascot" />
+    <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+    <meta name="description" content="Lucie schools Akure is  a structured, purposeful and caring co-educational  learning
+                              environment for all its students. It's an elementary and high school within which each girl or boy can feel confident to explore,
+                              develop and realise his or her full potential, helped and encouraged by teachers
+                              who are expert practitioners of their craft and fully committed to meeting the needs of
+                              the children in their care" />
+    <meta name="keywords" content="Akure, Akure schools,education, schools in Ondo state,
+southwest schools, Best schools in Akure,
+Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Akure" />
+    <meta name="author" content="spackbit Technologies" />
 
-<!-- Page Title -->
-<title>Lucie schools about </title>
+    <!-- Page Title -->
+    <title>Lucie school intl.- About</title>
 
-<!-- Favicon and Touch Icons -->
-<link href="images/favicon.png" rel="shortcut icon" type="image/png">
-<link href="images/apple-touch-icon.png" rel="apple-touch-icon">
-<link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
-<link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
-<link href="images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+    <!-- Favicon and Touch Icons -->
+    <link href="images/lucie.png" rel="shortcut icon" type="image/png">
+    <link href="images/lucie.png" rel="apple-touch-icon">
+    <link href="images/lucismwide.png" rel="apple-touch-icon" sizes="72x72">
+    <link href="images/lucismwide.png" rel="apple-touch-icon" sizes="114x114">
+    <link href="images/lucismwide.png" rel="apple-touch-icon" sizes="144x144">
 
 <!-- Stylesheet -->
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -98,7 +104,7 @@
                   <div class="row">
                       <div class="col-md-4">
                           <div class="thumb">
-                              <img src="images/lucie.png" width="1500px" alt="">
+                              <img src="images/lucismwide.png" width="1500px" alt="">
                           </div>
                       </div>
                       <div class="col-md-8 pl-5">

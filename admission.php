@@ -3,7 +3,6 @@
 
 
 <head>
-
     <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
     <meta name="description" content="Lucie schools Akure is  a structured, purposeful and caring co-educational  learning
@@ -17,7 +16,7 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
     <meta name="author" content="spackbit Technologies" />
 
     <!-- Page Title -->
-    <title>Lucie school intl.- curriculum</title>
+    <title>Lucie school intl.- Admission</title>
 
     <!-- Favicon and Touch Icons -->
     <link href="images/lucie.png" rel="shortcut icon" type="image/png">
@@ -84,9 +83,9 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
                 <div class="section-content">
                     <div class="row">
                         <div class="col-md-6">
-                            <h2 class="text-white font-36">About</h2>
+                            <h2 class="text-white font-36">ADMISSION </h2>
                             <ol class="breadcrumb text-left mt-10 white">
-                                <li><a href="#">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li><a href="#">Pages</a></li>
                                 <li class="active">Current Page</li>
                             </ol>
@@ -103,28 +102,41 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
                     <div class="row">
                         <div class="col-md-4">
                             <div class="thumb">
-                                <img src="images/studying1.jpg" width="500px" alt="">
+                                <img src="images/students.jpg" style="width:500px"
+                                     class=" img-thumbnail "
+                                     alt="lucie school logo">
                             </div>
                         </div>
                         <div class="col-md-8 pl-5">
 
 
-                            <div class="icon-box bg-white left media border-1px border-theme-colored2
-                            bg-hover-theme-colored mb-30 p-30 pb-20">
-                                <a class="media-left pull-left flip" href="#">
-                                    <i class="fa fa-graduation-cap text-theme-colored2"></i></a>
+                            <div class="icon-box bg-white left media border-1px border-theme-colored2 bg-hover-theme-colored mb-30 p-30 pb-20"> <a class="media-left pull-left flip" href="#"><i class="fa fa-university text-theme-colored2"></i></a>
                                 <div class="media-body">
-                                    <h4 class="name font-30 mt-0 mb-0">OUR CURRICULUM </h4>
-                                    <h4 class="media-heading heading">Straight on the bull's eye</h4>
-                                    <quote>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam vero expedita
-                                        fugiat illo quasi doloremque, in unde omnis sint assumenda! Quaerat in, reprehenderit
-                                        corporis voluptatum natus sequi reiciendis ullam. Quam
-                                        eaque dolorum voluptates cupiditate explicabo.</quote>
+                                    <h4 class="name font-30 mt-0 mb-0">ADMISSION</h4>
+                                    <h4 class="media-heading heading">About</h4>
+                                    <p style="color:#000;">
 
-                                    <quote>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam vero expedita
-                                        fugiat illo quasi doloremque, in unde omnis sint assumenda! Quaerat in, reprehenderit
-                                        corporis voluptatum natus sequi reiciendis ullam. Quam
-                                        eaque dolorum voluptates cupiditate explicabo.</quote>
+                                        We have also developed a reading program that help bootstrap a child reading accuracy
+                                        at an early age upon which they become independent and life-long learners who can respond
+                                        confidently to reading. In addition, our numeracy classes is designed  to
+                                        engender logical thinking in order to build their mathematical foundation</p>
+                                    <p style="color: black">
+                                        Our seasoned  teachers with love move every child forward in small achievable steps,
+                                        and recognize that assessment and target-setting are essential to academic excellence.
+                                        They consistently provide a caring and stimulating environment, which is safe and welcoming
+                                        to every child whilst upholding to discipline and self-esteem in order
+                                        to develop cooperation where every child feels
+                                        Valued as a person and which  can help them to value and respect others
+
+                                    </p>
+                                    <h4 class="media-heading heading"> Co-education</h4>
+
+                                    <quote >Lucie Elementary school aim to enable every child regardless of the ability to
+                                        achieve their full potential,to create a nurturing environment school
+                                        community where children Excel in their achievements and inspired to continue learning.
+
+                                        .</quote>
+
 
 
                                 </div>
@@ -136,6 +148,114 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
                     </div>
 
 
+                    <!-- Section: Courses -->
+                    <section id="courses" class="bg-silver-light">
+                        <div class="container pb-40">
+                            <div class="section-title text-center">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        <h2 class="text-uppercase line-bottom-double-line-centered mt-0">Our
+                                            <span class="text-theme-colored2">Classes</span></h2>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                                            Rem autem voluptatem obcaecati! <br>ipsum dolor sit
+                                            Rem autem voluptatem obcaecati</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row mtli-row-clearfix">
+                                <div class="owl-carousel-3col">
+                                    <div class="item">
+                                        <div class="course-single-item style2 text-center mb-40">
+                                            <div class="course-thumb">
+                                                <img class="img-fullwidth" alt="" src="images/playarea.jpg">
+                                                <div class="price-tag">APPLY</div>
+                                            </div>
+                                            <div class="course-details bg-white border-1px clearfix p-15 pt-15">
+                                                <div class="course-top-part">
+                                                    <a href="page-course-details.html">
+                                                        <h4 class="line-bottom-centered mt-20">PLAY GROUP</h4></a>
+
+                                                </div>
+                                                <div class="author-thumb">
+                                                    <img src="images/logosm-01.png" style="width:70px"
+                                                         class="img-circle img-thumbnail mt-5"
+                                                         alt="lucie school logo">
+                                                </div>
+                                                <p class="course-description mt-5">Lorem ipsum dolor sit amet,
+                                                    consec teturadipsi cing elit. Nobis commodi esse aliquam
+                                                    eligend repreh</p>
+                                            </div>
+                                            <div class="course-meta bg-theme-colored">
+                                                <ul class="list-inline text-white">
+                                                    <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>3 hours</li>
+                                                    <li><i class="fa fa-book text-theme-colored2 mr-5"></i>18 Lessons</li>
+                                                    <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>34 Seats</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="course-single-item style2 text-center mb-40">
+                                            <div class="course-thumb">
+                                                <img class="img-fullwidth" alt="" src="images/primarylower.jpg">
+                                                <div class="price-tag">APPLY</div>
+                                            </div>
+                                            <div class="course-details bg-white border-1px clearfix p-15 pt-15">
+                                                <div class="course-top-part">
+                                                    <a href="page-course-details.html">
+                                                        <h4 class="line-bottom-centered mt-20">NURSERY</h4></a>
+
+                                                </div>
+                                                <div class="author-thumb">
+                                                    <img src="images/logosm-01.png" style="width:70px"
+                                                         class="img-circle img-thumbnail mt-5"
+                                                         alt="lucie school logo">
+                                                </div>
+                                                <p class="course-description mt-5">
+                                                    Lorem ipsum dolor sit amet, consec teturadipsi cing elit.
+                                                    Nobis commodi esse aliquam eligend repreh</p>
+                                            </div>
+                                            <div class="course-meta bg-theme-colored">
+                                                <ul class="list-inline text-white">
+                                                    <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>3 hours</li>
+                                                    <li><i class="fa fa-book text-theme-colored2 mr-5"></i>18 Lessons</li>
+                                                    <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>34 Seats</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="item">
+                                        <div class="course-single-item style2 text-center mb-40">
+                                            <div class="course-thumb">
+                                                <img class="img-fullwidth" alt="" src="images/primary.jpg">
+                                                <div class="price-tag">APPLY</div>
+                                            </div>
+                                            <div class="course-details bg-white border-1px clearfix p-15 pt-15">
+                                                <div class="course-top-part">
+                                                    <a href="page-course-details.html"><h4 class="line-bottom-centered mt-20">PRIMARY</h4></a>
+
+                                                </div>
+                                                <div class="author-thumb">
+                                                    <img src="images/logosm-01.png" style="width:70px"
+                                                         class="img-circle img-thumbnail mt-5"
+                                                         alt="lucie school logo">
+                                                </div>
+                                                <p class="course-description mt-5">Lorem ipsum dolor sit amet, consec teturadipsi cing elit. Nobis commodi esse aliquam eligend repreh</p>
+                                            </div>
+                                            <div class="course-meta bg-theme-colored">
+                                                <ul class="list-inline text-white">
+                                                    <li><i class="fa fa-calendar text-theme-colored2 mr-5"></i>3 hours</li>
+                                                    <li><i class="fa fa-book text-theme-colored2 mr-5"></i>18 Lessons</li>
+                                                    <li><i class="fa fa-clock-o text-theme-colored2 mr-5"></i>34 Seats</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </section>
 
                     <div class="row mt-30">
                         <div class="section-title text-center">
@@ -214,8 +334,11 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
         <!-- Section: about -->
 
 
+        <!-- Divider: Funfact -->
+        <!-- Section: team -->
+
         <!-- Divider: testimonials -->
-       <?php include ('includes/testimonial.php')?>
+        <?php include('includes/testimonial.php')?>
 
         <!-- Divider: Clients
         <section class="clients bg-theme-colored2">

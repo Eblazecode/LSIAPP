@@ -7,19 +7,25 @@
 <!-- Meta Tags -->
 <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-<meta name="description" content="StudyPro - Education & Courses HTML5 Template" />
-<meta name="keywords" content="keyword1,keyword2,keyword3,keyword4,keyword5" />
-<meta name="author" content="ThemeMascot" />
+<meta name="description" content="Lucie schools Akure is  a structured, purposeful and caring co-educational  learning
+                              environment for all its students. It's an elementary and high school within which each girl or boy can feel confident to explore,
+                              develop and realise his or her full potential, helped and encouraged by teachers
+                              who are expert practitioners of their craft and fully committed to meeting the needs of
+                              the children in their care" />
+<meta name="keywords" content="Akure, Akure schools,education, schools in Ondo state,
+southwest schools, Best schools in Akure,
+Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Akure" />
+<meta name="author" content="spackbit Technologies" />
 
 <!-- Page Title -->
-<title>Lucie school intl.</title>
+<title>Lucie school intl.- Home</title>
 
 <!-- Favicon and Touch Icons -->
-<link href="images/favicon.png" rel="shortcut icon" type="image/png">
-<link href="images/apple-touch-icon.png" rel="apple-touch-icon">
-<link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
-<link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
-<link href="images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+<link href="images/lucie.png" rel="shortcut icon" type="image/png">
+<link href="images/lucie.png" rel="apple-touch-icon">
+<link href="images/lucismwide.png" rel="apple-touch-icon" sizes="72x72">
+<link href="images/lucismwide.png" rel="apple-touch-icon" sizes="114x114">
+<link href="images/lucismwide.png" rel="apple-touch-icon" sizes="144x144">
 
 <!-- Stylesheet -->
 <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -49,10 +55,10 @@
 <link href="css/colors/theme-skin-color-set1.css" rel="stylesheet" type="text/css">
 
 
-<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
-<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
-<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.navigation.min.js"></script>
-<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.parallax.min.js"></script>
+<script type="text/javascript" async src="js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script type="text/javascript" async src="js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script type="text/javascript" async  src="js/revolution-slider/js/extensions/revolution.extension.navigation.min.js"></script>
+<script type="text/javascript"  async src="js/revolution-slider/js/extensions/revolution.extension.parallax.min.js"></script>
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 <!--[if lt IE 9]>
@@ -957,12 +963,12 @@
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored2">
-                          <a data-lightbox="image" href="images/gallery/m1.jpg"><i class="fa fa-plus"></i></a>
+                          <a data-lightbox="image" href="images/sporty%20(3).jpg"><i class="fa fa-plus"></i></a>
                           <a href="#"><i class="fa fa-link"></i></a>
                         </div>
                       </div>
                     </div>
-                    <a class="hover-link" data-lightbox="image" href="http://placehold.it/800x600">View more</a>
+                    <a class="hover-link" data-lightbox="image" href="gallery.php">View more</a>
                   </div>
                 </div>
                 <!-- Portfolio Item End -->
@@ -975,12 +981,12 @@
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored2">
-                          <a data-lightbox="image" href="images/gallery/m3.jpg"><i class="fa fa-plus"></i></a>
+                          <a data-lightbox="image" href="images/class.jpg"><i class="fa fa-plus"></i></a>
                           <a href="#"><i class="fa fa-link"></i></a>
                         </div>
                       </div>
                     </div>
-                    <a class="hover-link" data-lightbox="image" href="http://placehold.it/400x300">View more</a>
+                    <a class="hover-link" data-lightbox="image" href="gallery.php">View more</a>
                   </div>
                 </div>
                 <!-- Portfolio Item End -->
@@ -1007,17 +1013,17 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/sporty%20(4).JPG" alt="project">
+                    <img class="img-fullwidth" src="images/gallery/w4.jpeg" alt="project">
                     <div class="overlay-shade bg-theme-colored"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored2">
-                          <a data-lightbox="image" href="images/gallery/m5.jpg"><i class="fa fa-plus"></i></a>
+                          <a data-lightbox="image" href="images/gallery/w4.jpeg"><i class="fa fa-plus"></i></a>
                           <a href="#"><i class="fa fa-link"></i></a>
                         </div>
                       </div>
                     </div>
-                    <a class="hover-link" data-lightbox="image" href="http://placehold.it/400x300">View more</a>
+                    <a class="hover-link" data-lightbox="image" href="gallery.php">View more</a>
                   </div>
                 </div>
 
@@ -1026,17 +1032,17 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/primary.jpg" alt="project">
+                    <img class="img-fullwidth" src="images/gallery/w9.jpeg" alt="project">
                     <div class="overlay-shade bg-theme-colored"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored2">
-                          <a data-lightbox="image" href="images/gallery/m2.jpg"><i class="fa fa-plus"></i></a>
+                          <a data-lightbox="image" href="images/gallery/w9.jpeg"><i class="fa fa-plus"></i></a>
                           <a href="#"><i class="fa fa-link"></i></a>
                         </div>
                       </div>
                     </div>
-                    <a class="hover-link" data-lightbox="image" href="http://placehold.it/400x600">View more</a>
+                    <a class="hover-link" data-lightbox="image" href="gallery.php">View more</a>
                   </div>
                 </div>
                 <!-- Portfolio Item End -->
@@ -1049,12 +1055,11 @@
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored2">
-                          <a data-lightbox="image" href="images/gallery/m6.jpg"><i class="fa fa-plus"></i></a>
+                          <a data-lightbox="image" href="images/lprimary.jpg"><i class="fa fa-plus"></i></a>
                           <a href="#"><i class="fa fa-link"></i></a>
                         </div>
                       </div>
                     </div>
-                    <a class="hover-link" data-lightbox="image" href="http://placehold.it/400x300">View more</a>
                   </div>
                 </div>
                 <!-- Portfolio Item End -->
@@ -1067,12 +1072,12 @@
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored2">
-                          <a data-lightbox="image" href="images/gallery/m7.jpg"><i class="fa fa-plus"></i></a>
+                          <a data-lightbox="image" href="images/primary2.jpg"><i class="fa fa-plus"></i></a>
                           <a href="#"><i class="fa fa-link"></i></a>
                         </div>
                       </div>
                     </div>
-                    <a class="hover-link" data-lightbox="image" href="http://placehold.it/400x300">View more</a>
+
                   </div>
                 </div>
                 <!-- Portfolio Item End -->
@@ -1080,17 +1085,17 @@
                 <!-- Portfolio Item Start -->
                 <div class="gallery-item">
                   <div class="thumb">
-                    <img class="img-fullwidth" src="images/primary2.jpg" alt="project">
+                    <img class="img-fullwidth" src="images/gallery/w4.jpeg" alt="project">
                     <div class="overlay-shade bg-theme-colored"></div>
                     <div class="icons-holder">
                       <div class="icons-holder-inner">
                         <div class="styled-icons icon-sm icon-dark icon-circled icon-theme-colored2">
-                          <a data-lightbox="image" href="images/gallery/m8.jpg"><i class="fa fa-plus"></i></a>
+                          <a data-lightbox="image" href="images/gallery/w4.jpeg"><i class="fa fa-plus"></i></a>
                           <a href="#"><i class="fa fa-link"></i></a>
                         </div>
                       </div>
                     </div>
-                    <a class="hover-link" data-lightbox="image" href="http://placehold.it/400x300">View more</a>
+
                   </div>
                 </div>
                 <!-- Portfolio Item End -->

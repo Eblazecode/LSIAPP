@@ -7,19 +7,25 @@
     <!-- Meta Tags -->
     <meta name="viewport" content="width=device-width,initial-scale=1.0"/>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
-    <meta name="description" content="StudyPro - Education & Courses HTML5 Template" />
-    <meta name="keywords" content="keyword1,keyword2,keyword3,keyword4,keyword5" />
-    <meta name="author" content="ThemeMascot" />
+    <meta name="description" content="Lucie schools Akure is  a structured, purposeful and caring co-educational  learning
+                              environment for all its students. It's an elementary and high school within which each girl or boy can feel confident to explore,
+                              develop and realise his or her full potential, helped and encouraged by teachers
+                              who are expert practitioners of their craft and fully committed to meeting the needs of
+                              the children in their care" />
+    <meta name="keywords" content="Akure, Akure schools,education, schools in Ondo state,
+southwest schools, Best schools in Akure,
+Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Akure" />
+    <meta name="author" content="spackbit Technologies" />
 
     <!-- Page Title -->
-    <title>Lucie schools about </title>
+    <title>Lucie school intl.- Home</title>
 
     <!-- Favicon and Touch Icons -->
-    <link href="images/favicon.png" rel="shortcut icon" type="image/png">
-    <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
-    <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
-    <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
-    <link href="images/apple-touch-icon-144x144.png" rel="apple-touch-icon" sizes="144x144">
+    <link href="images/lucie.png" rel="shortcut icon" type="image/png">
+    <link href="images/lucie.png" rel="apple-touch-icon">
+    <link href="images/lucismwide.png" rel="apple-touch-icon" sizes="72x72">
+    <link href="images/lucismwide.png" rel="apple-touch-icon" sizes="114x114">
+    <link href="images/lucismwide.png" rel="apple-touch-icon" sizes="144x144">
 
     <!-- Stylesheet -->
     <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
@@ -81,7 +87,7 @@
                         <div class="col-md-6">
                             <h2 class="text-white font-36">Gallery</h2>
                             <ol class="breadcrumb text-left mt-10 white">
-                                <li><a href="#">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li><a href="#">Pages</a></li>
                                 <li class="active">Gallery</li>
                             </ol>
@@ -101,7 +107,7 @@
                             <div class="portfolio-filter font-alt align-center">
                                 <a href="#" class="active" data-filter="*">All</a>
                                 <a href="#select1" class="" data-filter=".select1">Photos</a>
-                                <a href="#select2" class="" data-filter=".select2">Campus</a>
+                                <a href="#select2" class="" data-filter=".select2">ex-curricular</a>
                                 <a href="#select3" class="" data-filter=".select3">Students</a>
                             </div>
                             <!-- End Works Filter -->
@@ -112,12 +118,12 @@
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item select1" style="position: absolute; left: 0px; top: 0px;">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="images/gallery/s1.jpg" alt="project">
+                                        <img class="img-fullwidth" src="images/gallery/w1.jpeg" alt="project">
                                         <div class="overlay-shade"></div>
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                                                    <a data-lightbox="image" href="images/gallery/1.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/gallery/w1.jpeg"><i class="fa fa-plus"></i></a>
                                                     <a href="#"><i class="fa fa-link"></i></a>
                                                 </div>
                                             </div>
@@ -130,17 +136,17 @@
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item select1" style="position: absolute; left: 285px; top: 0px;">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="images/gallery/s2.jpg" alt="project">
+                                        <img class="img-fullwidth" src="images/gallery/w6.jpeg" alt="project">
                                         <div class="overlay-shade"></div>
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                                                    <a data-lightbox="image" href="images/gallery/2.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/gallery/w6.jpeg"><i class="fa fa-plus"></i></a>
                                                     <a href="#"><i class="fa fa-link"></i></a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <a class="hover-link" data-lightbox="image" href="images/gallery/2.jpg">View more</a>
+                                        <a class="hover-link" data-lightbox="image" href="images/gallery/w6.jpeg">View more</a>
                                     </div>
                                 </div>
                                 <!-- Portfolio Item End -->
@@ -148,17 +154,17 @@
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item select2" style="position: absolute; left: 570px; top: 0px;">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="images/gallery/s3.jpg" alt="project">
+                                        <img class="img-fullwidth" src="images/gallery/w3.jpeg" alt="project">
                                         <div class="overlay-shade"></div>
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                                                    <a data-lightbox="image" href="images/gallery/3.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/gallery/w3.jpeg"><i class="fa fa-plus"></i></a>
                                                     <a href="#"><i class="fa fa-link"></i></a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <a class="hover-link" data-lightbox="image" href="images/gallery/3.jpg">View more</a>
+                                        <a class="hover-link" data-lightbox="image" href="images/students.png">View more</a>
                                     </div>
                                 </div>
                                 <!-- Portfolio Item End -->
@@ -166,17 +172,17 @@
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item select3" style="position: absolute; left: 855px; top: 0px;">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="images/gallery/s4.jpg" alt="project">
+                                        <img class="img-fullwidth" src="images/sporty%20(3).jpg" alt="project">
                                         <div class="overlay-shade"></div>
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                                                    <a data-lightbox="image" href="images/gallery/4.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/sporty%20(3).jpg"><i class="fa fa-plus"></i></a>
                                                     <a href="#"><i class="fa fa-link"></i></a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <a class="hover-link" data-lightbox="image" href="images/gallery/4.jpg">View more</a>
+                                        <a class="hover-link" data-lightbox="image" href="images/sporty%20(3).jpg">View more</a>
                                     </div>
                                 </div>
                                 <!-- Portfolio Item End -->
@@ -184,17 +190,17 @@
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item select1" style="position: absolute; left: 0px; top: 165px;">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="images/gallery/s5.jpg" alt="project">
+                                        <img class="img-fullwidth" src="images/studying1.jpg" alt="project">
                                         <div class="overlay-shade"></div>
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                                                    <a data-lightbox="image" href="images/gallery/5.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/studying1.jpg"><i class="fa fa-plus"></i></a>
                                                     <a href="#"><i class="fa fa-link"></i></a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <a class="hover-link" data-lightbox="image" href="images/gallery/5.jpg">View more</a>
+                                        <a class="hover-link" data-lightbox="image" href="images/gallery/w6.jpg">View more</a>
                                     </div>
                                 </div>
                                 <!-- Portfolio Item End -->
@@ -202,17 +208,17 @@
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item select3" style="position: absolute; left: 285px; top: 165px;">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="images/gallery/s6.jpg" alt="project">
+                                        <img class="img-fullwidth" src="images/gallery/w4.jpeg" alt="project">
                                         <div class="overlay-shade"></div>
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                                                    <a data-lightbox="image" href="images/gallery/6.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/gallery/w4.jpeg"><i class="fa fa-plus"></i></a>
                                                     <a href="#"><i class="fa fa-link"></i></a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <a class="hover-link" data-lightbox="image" href="images/gallery/6.jpg">View more</a>
+                                        <a class="hover-link" data-lightbox="image" href="images/gallery/w4.jpeg">View more</a>
                                     </div>
                                 </div>
                                 <!-- Portfolio Item End -->
@@ -220,17 +226,17 @@
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item select2" style="position: absolute; left: 570px; top: 165px;">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="images/gallery/s7.jpg" alt="project">
+                                        <img class="img-fullwidth" src="images/gallery/w8.jpeg" alt="project">
                                         <div class="overlay-shade"></div>
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                                                    <a data-lightbox="image" href="images/gallery/7.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/gallery/w8.jpeg"><i class="fa fa-plus"></i></a>
                                                     <a href="#"><i class="fa fa-link"></i></a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <a class="hover-link" data-lightbox="image" href="images/gallery/7.jpg">View more</a>
+                                        <a class="hover-link" data-lightbox="image" href="images/gallery/w8.jpeg">View more</a>
                                     </div>
                                 </div>
                                 <!-- Portfolio Item End -->
@@ -238,17 +244,17 @@
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item select3" style="position: absolute; left: 855px; top: 165px;">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="images/gallery/s8.jpg" alt="project">
+                                        <img class="img-fullwidth" src="images/gallery/w4.jpeg" alt="project">
                                         <div class="overlay-shade"></div>
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                                                    <a data-lightbox="image" href="images/gallery/8.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/gallery/w4.jpeg"><i class="fa fa-plus"></i></a>
                                                     <a href="#"><i class="fa fa-link"></i></a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <a class="hover-link" data-lightbox="image" href="images/gallery/8.jpg">View more</a>
+                                        <a class="hover-link" data-lightbox="image" href="images/gallery/w8.jpg">View more</a>
                                     </div>
                                 </div>
                                 <!-- Portfolio Item End -->
@@ -256,17 +262,17 @@
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item select1" style="position: absolute; left: 0px; top: 330px;">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="images/gallery/s9.jpg" alt="project">
+                                        <img class="img-fullwidth" src="images/gallery/w9.jpeg" alt="project">
                                         <div class="overlay-shade"></div>
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                                                    <a data-lightbox="image" href="images/gallery/9.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/gallery/w9.jpeg"><i class="fa fa-plus"></i></a>
                                                     <a href="#"><i class="fa fa-link"></i></a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <a class="hover-link" data-lightbox="image" href="images/gallery/9.jpg">View more</a>
+                                        <a class="hover-link" data-lightbox="image" href="gallery.php">View more</a>
                                     </div>
                                 </div>
                                 <!-- Portfolio Item End -->
@@ -274,17 +280,17 @@
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item select2" style="position: absolute; left: 285px; top: 330px;">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="images/gallery/s10.jpg" alt="project">
+                                        <img class="img-fullwidth" src="images/gallery/w10.jpeg" alt="project">
                                         <div class="overlay-shade"></div>
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                                                    <a data-lightbox="image" href="images/gallery/10.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/gallery/w10.jpeg"><i class="fa fa-plus"></i></a>
                                                     <a href="#"><i class="fa fa-link"></i></a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <a class="hover-link" data-lightbox="image" href="images/gallery/10.jpg">View more</a>
+                                        <a class="hover-link" data-lightbox="image" href="images/gallery/w10.jpeg">View more</a>
                                     </div>
                                 </div>
                                 <!-- Portfolio Item End -->
@@ -292,17 +298,17 @@
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item select1" style="position: absolute; left: 570px; top: 330px;">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="images/gallery/s11.jpg" alt="project">
+                                        <img class="img-fullwidth" src="images/gallery/w2.jpeg" alt="project">
                                         <div class="overlay-shade"></div>
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                                                    <a data-lightbox="image" href="images/gallery/11.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/gallery/w2.jpeg"><i class="fa fa-plus"></i></a>
                                                     <a href="#"><i class="fa fa-link"></i></a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <a class="hover-link" data-lightbox="image" href="images/gallery/11.jpg">View more</a>
+                                        <a class="hover-link" data-lightbox="image" href="images/studying1.jpg">View more</a>
                                     </div>
                                 </div>
                                 <!-- Portfolio Item End -->
@@ -310,17 +316,18 @@
                                 <!-- Portfolio Item Start -->
                                 <div class="gallery-item select3" style="position: absolute; left: 855px; top: 330px;">
                                     <div class="thumb">
-                                        <img class="img-fullwidth" src="images/gallery/s12.jpg" alt="project">
+                                        <img class="img-fullwidth" src="images/gallery/w4.jpeg" alt="project">
                                         <div class="overlay-shade"></div>
                                         <div class="icons-holder">
                                             <div class="icons-holder-inner">
                                                 <div class="styled-icons icon-sm icon-bordered icon-circled icon-theme-colored2">
-                                                    <a data-lightbox="image" href="images/gallery/12.jpg"><i class="fa fa-plus"></i></a>
+                                                    <a data-lightbox="image" href="images/gallery/w4.jpeg">
+                                                        <i class="fa fa-plus"></i></a>
                                                     <a href="#"><i class="fa fa-link"></i></a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <a class="hover-link" data-lightbox="image" href="images/gallery/12.jpg">View more</a>
+                                        <a class="hover-link" data-lightbox="image" href="images/gallery/w4.jpeg">View more</a>
                                     </div>
                                 </div>
                                 <!-- Portfolio Item End -->
