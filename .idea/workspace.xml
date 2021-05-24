@@ -2,120 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64deac61-9a38-4fb6-bbb0-511b9a34fe5f" name="Default Changelist" comment="updating unnecessary files and contents">
-      <change afterPath="$PROJECT_DIR$/admission.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/w1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/w10.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/w11.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/w2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/w3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/w4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/w5.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/w6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/w7.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/w8.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/gallery/w9.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/playgrnd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/includes/innerheader.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/about.php" beforeDir="false" afterPath="$PROJECT_DIR$/about.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curriculum.php" beforeDir="false" afterPath="$PROJECT_DIR$/curriculum.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elearning.php" beforeDir="false" afterPath="$PROJECT_DIR$/elearning.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/elementarysch.php" beforeDir="false" afterPath="$PROJECT_DIR$/elementarysch.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excurricular.php" beforeDir="false" afterPath="$PROJECT_DIR$/excurricular.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/highsch.php" beforeDir="false" afterPath="$PROJECT_DIR$/highsch.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about/a1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about/dc1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about/s1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about/s2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about/s3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/apple-touch-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/apple-touch-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/w1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/w2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/w3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/w4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/w5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/clients/w6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/f-course1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/f-course2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/f-course3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/lg6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/sm1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/sm2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/sm3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/sm4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/sm5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/sm6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/xs1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/xs2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/xs3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/xs4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/course/xs5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/event/l1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/event/l2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/event/l3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/event/l4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/m1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/m2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/m3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/m4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/m5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/m6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/m7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/m8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/s1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/s10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/s11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/s12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/s2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/s3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/s4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/s5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/s6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/s7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/s8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/gallery/s9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-white-footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-white-footer1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-wide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-wide1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/lucie/codecanyon-0M3OsPcq-smart-school-school-management-system.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/megamenu/megamenu-dropdown.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/megamenu/megamenu-sale-off.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/md1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/md2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/md3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/sm-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/sm-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/sm-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/sm-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/team/team-details.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/testimonials/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/testimonials/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/testimonials/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/testimonials/quote_arrow.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/includes/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/includes/slider.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/slider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/testimonial.php" beforeDir="false" afterPath="$PROJECT_DIR$/includes/testimonial.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library.php" beforeDir="false" afterPath="$PROJECT_DIR$/library.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mdwelcome.php" beforeDir="false" afterPath="$PROJECT_DIR$/mdwelcome.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission.php" beforeDir="false" afterPath="$PROJECT_DIR$/mission.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vision.php" beforeDir="false" afterPath="$PROJECT_DIR$/vision.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +19,9 @@
   </component>
   <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
-    <execution />
+    <execution>
+      <executable />
+    </execution>
   </component>
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="origin/master" />
@@ -149,8 +46,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/gallery" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -162,13 +60,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\XAMPP\htdocs\LSIAPP\images" />
       <recent name="C:\xampp\htdocs\LSI\images\gallery" />
       <recent name="C:\xampp\htdocs\LSI\images" />
       <recent name="C:\wamp64\www\lucieschweb\LSI\images" />
       <recent name="C:\wamp64\www\lucieschweb\LSI\images\icons" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -206,6 +105,9 @@
       <workItem from="1616883765529" duration="1777000" />
       <workItem from="1616885577932" duration="1071000" />
       <workItem from="1616907068327" duration="322000" />
+      <workItem from="1621824877823" duration="1617000" />
+      <workItem from="1621826612180" duration="1694000" />
+      <workItem from="1621828401187" duration="1799000" />
     </task>
     <task id="LOCAL-00001" summary="Removed unnecessary files for heroku and changed directory">
       <created>1616387660216</created>
@@ -239,23 +141,34 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Removed unnecessary files for heroku and changed directory" />
     <MESSAGE value="updating unnecessary files and contents" />
     <option name="LAST_COMMIT_MESSAGE" value="updating unnecessary files and contents" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="319" key="NewPhpFileDialog" timestamp="1621826829080">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="517" y="319" key="NewPhpFileDialog/0.30.1366.738@0.30.1366.738" timestamp="1621826829080" />
+    <state x="359" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1621832219443">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state x="359" y="224" key="com.intellij.ide.util.TipDialog/0.30.1366.738@0.30.1366.738" timestamp="1621832219443" />
   </component>
 </project>

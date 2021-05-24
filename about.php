@@ -79,56 +79,62 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
   <!-- Start main-content -->
   <div class="main-content">
     <!-- Section: inner-header -->
-    <section class="inner-header divider layer-overlay overlay-theme-colored-7" data-bg-img="images/bg/bg1.jpg">
-      <div class="container pt-120 pb-60">
-        <!-- Section Content -->
-        <div class="section-content">
-          <div class="row"> 
-            <div class="col-md-6">
-              <h2 class="text-white font-36">About</h2>
-              <ol class="breadcrumb text-left mt-10 white">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Pages</a></li>
-                <li class="active">Current Page</li>
-              </ol>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <?php include ('includes/innerheader.php')?>
 
 
-      <section>
+      <section >
           <div class="container">
-              <div class="section-content">
-                  <div class="row">
+              <div class="section-content" >
+                  <div class="row " style="
+  padding: 20px 20px 20px 20px;
+  border: 1px none #BFBFBF;
+  background-color: whitesmoke;
+  color: black;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin-bottom: 5%;
+  margin-top:5%;
+  box-shadow:   10px 10px 10px gainsboro;">
                       <div class="col-md-4">
                           <div class="thumb">
                               <img src="images/lucismwide.png" width="1500px" alt="">
                           </div>
                       </div>
                       <div class="col-md-8 pl-5">
-                          <h4 class="name font-30 mt-0 mb-0">WELCOME TO LUCIE SCHOOL </h4>
-                          <h5 class="mt-5">welcome</h5>
+                          <h4 class="name font-30 mt-0 mb-0">About us </h4>
+                          <h5 class="mt-5"></h5>
                           <p style="color: black">Since its inception in 2008 at Danjuma Area of Akure Ondo state
-                              Lucie schools (formerly known as little angels) has grown in leap
-                              and bounds to having another branch in Alagbake Akure by 2014. By 2018,
-                              Lucie High School (formally called RHENISH COLLEGE) was
+                             St.Lucie schools (formerly known as little angels) has grown in leap
+                              and bounds to having another branch in Ijapo Estate Akure (2014) . By 2018,
+                              St.Lucie High School (formally called RHENISH COLLEGE) was
                               launched to fill in the gap for an excellent co-educational high
-                              school education in Akure and to continue the legacy obtained at the
-                              elementary school. We provide outstanding opportunities that develop
-                              every aspect of our students’ interest and potentials  dished out from
+                              school education in Akure to continue the legacy obtained at the
+                              elementary school. We are on a mission to provide wholesome education that develop
+                              every aspect of our students’ interest and potentials,  dished out from
                               deep wealth of experience of our seasoned
                               professional teachers which is benched on
                               discipline at the core.
 </p>
+                          <p>
+                              Our teaching methodology is unique. We teach one on one,
+                              from where the child is to targeted level of the curriculum.
+                              Recognizing the unique learning needs of each student
+                              and provide approximately rigorous program for all in love
+                          </p>
 
                       </div>
                   </div>
 
 
 
-                  <div class="row mt-30">
+                  <div class="row mt-30" style="
+  padding: 20px 20px 20px 20px;
+  border: 1px none #BFBFBF;
+  background-color: whitesmoke;
+  color: black;
+  margin-bottom: 5%;
+  margin-top:5%;
+  box-shadow:   10px 10px 10px gainsboro;">
                       <div class="section-title text-center">
                           <div class="row">
                               <div class="col-md-12">
@@ -138,7 +144,7 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
                               </div>
                           </div>
                       </div>
-                      <div class="col-md-4">
+                      <div class="col-md-4" >
                           <div class="icon-box bg-white left media border-1px border-theme-colored2 bg-hover-theme-colored mb-30 p-30 pb-20">
                               <a class="media-left pull-left flip" href="#"><i class="fa fa-child text-theme-colored2"></i></a>
                               <div class="media-body">
@@ -201,7 +207,10 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
                     <a class="media-left pull-left flip" href="#"><i class="fa fa-check-circle-o text-theme-colored2"></i></a>
                     <div class="media-body">
                         <h4 class="media-heading heading">Morals</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum consectetur sit ullam </p>
+                        <p>Our goal of incorporating moral value into education is to ensure
+                            upon graduation, student have
+                             compassion and empathy where withal to be a part of a safe,
+                            peaceful and cooperative society contributing their quota of integrity </p>
                     </div>
                 </div>
             </div>
@@ -210,7 +219,10 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
                     <a class="media-left pull-left flip" href="#"><i class="fa fa-star text-theme-colored2"></i></a>
                     <div class="media-body">
                         <h4 class="media-heading heading">Distinction </h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum consectetur sit ullam </p>
+                        <p>Our teaching methodology is unique. We teach one on one,
+                            till we truly achieve the goal of the curriculum.
+                            Recognizing the unique learning needs of each student and
+                            provide approximately rigorous program for all.</p>
                     </div>
                 </div>
             </div>
@@ -220,7 +232,9 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
                     <a class="media-left pull-left flip" href="#"><i class="fa fa-graduation-cap text-theme-colored2"></i></a>
                     <div class="media-body">
                         <h4 class="media-heading heading">Excellence </h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum consectetur sit ullam </p>
+                        <p>The structural plan of our action delivers a high standard and
+                            equitable academic excellence for our students via our curriculum program,
+                            teaching practices and extra-curricular activities </p>
                     </div>
                 </div>
             </div>
@@ -241,7 +255,14 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
                     <a class="media-left pull-left flip" href="#"><i class="fa fa-child text-theme-colored2"></i></a>
                     <div class="media-body">
                         <h4 class="media-heading heading">self esteem </h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum consectetur sit ullam </p>
+                        <p>
+                            We make every child have a sense of worth via
+                            being proud of what they can do, see the good things about themselves,
+                            believe in themselves even when they don’t do well at first
+                            Obviously, our students have positive mindsets and our
+                            testimonials attest to this
+
+                        </p>
                     </div>
                 </div>
             </div>
@@ -251,7 +272,10 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
                         <i class="fa fa-heart-o text-theme-colored2"></i></a>
                     <div class="media-body">
                         <h4 class="media-heading heading">pastoral care</h4>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum consectetur sit ullam </p>
+                        <p>All our teachers are involved in this with resulting academic progress our  pupils/students.
+                            It offers support for the learning behavior and welfare of all
+                            student and address the particular difficulties some individual
+                            pupils/students may be experiencing</p>
                     </div>
                 </div>
             </div>
@@ -259,155 +283,92 @@ Schools in Ijapo Akure, Schools in Akure, High school, Elementary Schools in Aku
     </section>
 </section>
 
-    <!-- Divider: Funfact -->
-    <!-- Section: team -->
-    <section id="team">
-      <div class="container">
-        <div class="section-title text-center">
-          <div class="row">
-            <div class="col-md-10 col-md-offset-1">
-              <h2 class="text-uppercase line-bottom-double-line-centered mt-0">Our <span class="text-theme-colored2">Amazing school</span></h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                  Rem autem voluptatem obcaecati! <br>ipsum dolor sit Rem
-                  autem voluptatem obcaecati</p>
-            </div>
-          </div>
-        </div>
-        <div class="section-content">
-          <div class="row mtli-row-clearfix">
-            <div class="owl-carousel-4col">
-              <div class="item">
-                <div class="team-members maxwidth400">
-                  <div class="team-thumb">
-                    <img class="img-fullwidth" alt="" src="images/students.jpg">
-                  </div>
-                  <div class="bg-lighter border-1px text-center p-10 pt-20 pb-10">
-                    <h3 class="mt-0"><a class="text-theme-colored2" href="page-teachers-details.html">Sakib Vettori</a></h3>
-                    <h5 class="text-theme-color">Teacher - MBA</h5>
-                  </div>
-                  <div class="bg-theme-colored text-center pt-5">
 
-                  </div>
-                </div>              
-              </div>
-              <div class="item">
-                <div class="team-members maxwidth400">
-                  <div class="team-thumb">
-                    <img class="img-fullwidth" alt="" src="images/sporty%20(1).JPG">
-                  </div>
-                  <div class="bg-lighter border-1px text-center p-10 pt-20 pb-10">
-                    <h3 class="mt-0"><a class="text-theme-colored2" href="page-teachers-details.html"> Maria Vettori</a></h3>
-                    <h5 class="text-theme-color">Teacher - MBA</h5>
-                  </div>
-                  <div class="bg-theme-colored text-center pt-5">
-
-                  </div>
-                </div>              
-              </div>
-              <div class="item">
-                <div class="team-members maxwidth400">
-                  <div class="team-thumb">
-                    <img class="img-fullwidth" alt="" src="images/happypupils.png">
-                  </div>
-                  <div class="bg-lighter border-1px text-center p-10 pt-20 pb-10">
-                    <h3 class="mt-0"><a class="text-theme-colored2" href="page-teachers-details.html"> Sakib Martin</a></h3>
-                    <h5 class="text-theme-color">Teacher - MBA</h5>
-                  </div>
-                  <div class="bg-theme-colored text-center pt-5">
-
-                  </div>
-                </div>              
-              </div>
-              <div class="item">
-                <div class="team-members maxwidth400">
-                  <div class="team-thumb">
-                    <img class="img-fullwidth" alt="" src="images/studying1.jpg">
-                  </div>
-                  <div class="bg-lighter border-1px text-center p-10 pt-20 pb-10">
-                    <h3 class="mt-0"><a class="text-theme-colored2" href="page-teachers-details.html"> Maria Martin</a></h3>
-                    <h5 class="text-theme-color">Teacher - MBA</h5>
-                  </div>
-                  <div class="bg-theme-colored text-center pt-5">
-
-                  </div>
-                </div>              
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
 
       <!-- Divider: testimonials -->
-      <section class="divider layer-overlay overlay-theme-colored-5" data-bg-img="images/schbuiding.jpg">
-          <div class="container pt-60 pb-60">
-              <div class="row">
-                  <div class="col-md-8 col-md-offset-2">
-                      <h2 class="line-bottom-double-line-centered text-white text-center mt-0 mb-0">Feedback From Our Parents</h2>
-                      <div class="text-center mb-30"><i class="icon_quotations font-72 text-gray-lightgray"></i></div>
-                      <div class="owl-carousel-1col" data-dots="true">
-                          <div class="item">
-                              <div class="testimonial-wrapper text-center">
-                                  <!--<div class="thumb">
-                                      <img class="img-thumbnail img-circle" alt=""
-                                           src="images/testimonials/1.jpg"></div>-->
-                                  <div class="content pt-10">
-                                      <p class="lead text-white">I just change my children school to Lucie Schools
-                                          through a referee and I was actually scared because my kids has been to
-                                          several school but could not get what I want for my kids but when I
-                                          came I let the school know my fears,but to my surprise in three weeks
-                                          I saw an amazing changes.my boys could get home and attend to his
-                                          home task without been forced to,my older kids make out time to read
-                                          his note,honestly it was like a magic.Before the end of term my little
-                                          boy in Nursery 2 has been able to understand and write 1-100,
-                                          in figure 1- 1200 and so on.He takes responsibility to pick up his book,
-                                          it is a great relive
-                                          for me as a parent,not dragging a child to attempt assignment</p>
-                                      <h4 class="author text-theme-colored2 mb-0">LSI parent</h4>
-                                      <!--<h6 class="title text-white mt-0 mb-15">Designer</h6>-->
+
+      <section id="event" class="bg-silver-light" style="
+  padding: 20px 20px 20px 20px;
+  border: 1px none #BFBFBF;
+  background-color: whitesmoke;
+  color: darkgreen;
+  margin-bottom: 5%;
+  margin-top:5%;
+  box-shadow:   10px 10px 10px gainsboro;">
+          <div class="container">
+              <div class="section-content">
+                  <div class="row">
+                      <div class="col-md-6">
+                          <h2 class="line-bottom mt-0"><i class="fa fa-calendar mr-10"></i>upcoming
+                              <span class="text-theme-colored2">Events</span></h2>
+                          <div class="event media sm-maxwidth400 border-bottom mt-5 mb-0 pt-10 pb-15">
+                              <div class="row">
+                                  <div class="col-xs-2 col-md-3 pr-0">
+                                      <div class="event-date text-center bg-theme-colored border-1px
+                                       p-0 pt-10 pb-10 sm-custom-style">
+                                          <ul>
+                                              <li class="font-28 text-white font-weight-700">28</li>
+                                              <li class="font-18 text-white text-center text-uppercase">Feb</li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div class="col-xs-9 pr-10 pl-10">
+                                      <div class="event-content mt-0 p-5 pb-0 pt-0">
+                                          <h4 class="media-heading font-weight-600"><a href="#">Resumption</a></h4>
+                                          <p class="mb-0">psum dolor amet consectetur elitQuas evenie tnemo
+                                              dicta Ullam namdolor sit amet adipisic evenietneo evenie </p>
+                                      </div>
                                   </div>
                               </div>
                           </div>
-                          <div class="item">
-                              <div class="testimonial-wrapper text-center">
-                                  <!-- <div class="thumb">
-                                       <img class="img-thumbnail img-circle" alt=""
-                                            src="images/testimonials/2.jpg"></div>-->
-                                  <div class="content pt-10">
-                                      <p class="lead text-white">My child is in the High school section,
-                                          I saw transformation in one week,I am also a professional teacher
-                                          with the government.when I brought him to J.s.s1 in my heart I was
-                                          just praying for the best for him but to my greatest surprise,in
-                                          one week his dressing and maintainance of uniform has changed,i was
-                                          impressed.secondly in his academics,he did not have the habit of settling
-                                          down to read,very restless a child but Luci schools restructured his
-                                          life at he started reading his note after dinner till he became grounded
-                                          in in to the eetent that he ask to put up an alam to wake him up by 4am to read more.
-                                          it was a shock to me and very encouraging,God bless Lucie Schools</p>
-                                      <h4 class="author text-theme-colored2 mb-0">LSI parent</h4>
-                                      <!--<h6 class="title text-white mt-0 mb-15">Designer</h6>-->
+                          <div class="event media sm-maxwidth400 border-bottom mt-5 mb-0 pt-10 pb-15">
+                              <div class="row">
+                                  <div class="col-xs-2 col-md-3 pr-0">
+                                      <div class="event-date text-center bg-theme-colored2 border-1px
+                                      p-0 pt-10 pb-10 sm-custom-style">
+                                          <ul>
+                                              <li class="font-28 text-white font-weight-700">10</li>
+                                              <li class="font-18 text-white text-center text-uppercase">MAY</li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div class="col-xs-9 pr-10 pl-10">
+                                      <div class="event-content mt-0 p-5 pb-0 pt-0">
+                                          <h4 class="media-heading font-weight-600"><a href="#">Mid-term break</a></h4>
+                                          <p class="mb-0">psum dolor amet consectetur elitQuas evenie tnemo dicta Ullam namdolo\
+                                              r sit amet adipisic evenietneo evenie </p>
+                                      </div>
                                   </div>
                               </div>
                           </div>
-                          <div class="item">
-                              <div class="testimonial-wrapper text-center">
-                                  <!--<div class="thumb"><img class="img-thumbnail img-circle"
-                                                          alt="" src="images/testimonials/3.jpg">
-                                                          </div>-->
-                                  <div class="content pt-10">
-                                      <p class="lead text-white">My child joined the secondary arm which
-                                          is Lucie High School and in three years he can read musicard note
-                                          and interprete correctly and can play piano very well.when I came
-                                          into the school I was told my child will have to buy any instrument of his choice and at least he will know how to play two instrument before finishing his condary education I thought it will be impossible becos teaching music and involving normal academics could be difficult,but I now realize that music help them in their studies to concentrate and now in three years he has been playing piano like no body' business and he is picking up giuter now,
-                                          thanks to the management of Lucie School for this great idea</p>
-                                      <h4 class="author text-theme-colored2 mb-0">LSI Parent </h4>
-                                      <!--<h6 class="title text-white mt-0 mb-15">Designer</h6>-->
+                          <div class="event media sm-maxwidth400 mt-5 mb-0 pt-10 pb-15">
+                              <div class="row">
+                                  <div class="col-xs-2 col-md-3 pr-0">
+                                      <div class="event-date text-center bg-theme-colored border-1px p-0 pt-10 pb-10 sm-custom-style">
+                                          <ul>
+                                              <li class="font-28 text-white font-weight-700">5</li>
+                                              <li class="font-18 text-white text-center text-uppercase">JUN</li>
+                                          </ul>
+                                      </div>
+                                  </div>
+                                  <div class="col-xs-9 pr-10 pl-10">
+                                      <div class="event-content mt-0 p-5 pb-0 pt-0">
+                                          <h4 class="media-heading font-weight-600"><a href="#">End of term</a></h4>
+                                          <p class="mb-0">psum dolor amet consectetur elitQuas
+                                              evenie tnemo dicta Ullam namdolor sit
+                                              amet adipisic evenietneo evenie </p>
+                                      </div>
                                   </div>
                               </div>
                           </div>
                       </div>
+                      <div class="col-md-6">
+                          <h2 class="line-bottom mt-0">Testimonials <span class="text-theme-colored2"></span></h2>
+                          <?php include('includes/testimonial.php')?>
+                      </div>
                   </div>
+
               </div>
           </div>
       </section>
